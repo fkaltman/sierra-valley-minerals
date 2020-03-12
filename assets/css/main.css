@@ -33,7 +33,7 @@ body {
   line-height: 1;
 }
 
-/* FA added */
+/* --------- FA additions ---------- */
 
 .sierra-title {
   color: rgb(95, 160, 149);
@@ -50,6 +50,33 @@ body {
 .scroll-prompt {
   color: lightgrey;
 }
+
+.cadetblue-touch{
+  color:cadetblue;
+}
+
+.send-touch{
+  color: rgb(95, 129, 160);
+}
+
+.fa-gem {
+  color:rgb(235, 173, 166);
+}
+
+.html5up-link{
+  color: rgb(107, 143, 99);
+
+}
+
+.grey-font {
+  color:grey;
+}
+
+/* .color-gem{
+  color: red;
+} */
+
+/* ------ End of FA additions -------- */
 
 
 ol, ul {
@@ -89,12 +116,6 @@ input, select, textarea {
 	-webkit-appearance: none;
 	-ms-appearance: none;
 	appearance: none;
-}
-
-/* FA added */
-
-.color-jem {
-  color:cadetblue;
 }
 
 /* Basic */
@@ -349,7 +370,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #47D3E5;
+			color: cadetblue;
 		}
 
 	strong, b {
@@ -2213,7 +2234,7 @@ input, select, textarea {
 	.button {
 		background-color: transparent;
 		box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.2);
-		color: #000000 !important;
+		color: cadetblue !important;
 	}
 
 		input[type="submit"]:hover,
