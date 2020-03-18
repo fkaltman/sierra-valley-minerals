@@ -8,7 +8,7 @@ www.svm.surge.sh
 
 When completed the site will be hosted on 
 www.sierravalleyminerals.com  
-(which currently links directly to an EBAY store).
+(which currently links directly to the client's EBAY store).
 
 <br>
 
