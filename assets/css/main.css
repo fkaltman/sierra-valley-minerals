@@ -1,11 +1,7 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i");
 
-/*
-	Story by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+/* Story theme by HTML5 UP html5up.net | @ajlkn */
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -44,7 +40,8 @@ body {
 }
 
 .store-invite {
-  color: rgb(107, 143, 99);
+color:cadetblue;
+font-size: 2.25em;
 }
 
 .scroll-prompt {
@@ -55,6 +52,18 @@ body {
   color:cadetblue;
 }
 
+.email-direct {
+  color: rgb(95, 129, 160);
+  padding-top: 4vh;
+  font-size: 1em;
+}
+
+.email-address {
+  color: rgb(95, 129, 160);
+  padding-bottom: 4vh;
+  font-size: 1.25em;
+}
+
 .send-touch{
   color: rgb(95, 129, 160);
 }
@@ -63,18 +72,23 @@ body {
   color:rgb(235, 173, 166);
 }
 
+.fa-ebay, .fa-amazon {
+  color: rgb(95, 129, 160);
+  padding: 0 2vw 0 2vw;
+  font-size: 4em;
+}
+
 .html5up-link{
   color: rgb(107, 143, 99);
-
 }
+
+.ltgrey-font{
+  color:lightgrey;
+  }
 
 .grey-font {
   color:grey;
 }
-
-/* .color-gem{
-  color: red;
-} */
 
 /* ------ End of FA additions -------- */
 
