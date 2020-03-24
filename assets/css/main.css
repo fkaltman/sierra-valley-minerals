@@ -86,8 +86,13 @@ font-size: 2.25em;
   color:lightgrey;
   }
 
-.grey-font {
+.footer-grey-font {
   color:grey;
+  font-size: .75em;
+}
+
+footer{
+  padding-top: 12vh;
 }
 
 /* ------ End of FA additions -------- */
