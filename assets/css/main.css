@@ -31,6 +31,10 @@ body {
 
 /* --------- FA additions ---------- */
 
+.suggestion-to-matt {
+  color: red;
+}
+
 .sierra-title {
   color: rgb(95, 160, 149);
 }
@@ -43,9 +47,13 @@ body {
   color: grey;
 }
 
+.pre-carousel-blurb, .pre-carousel-header {
+  color: rgb(95, 129, 160);
+}
+
 .store-invite {
-color:cadetblue;
-font-size: 2em;
+  color:cadetblue;
+  font-size: 2em;
 }
 
 .scroll-prompt {
@@ -82,7 +90,7 @@ font-size: 2em;
 
 .fa-ebay, .fa-amazon {
   color: rgb(95, 129, 160);
-  padding: 0 2vw 0 2vw;
+  padding: 0 4vw 0 4vw;
   font-size: 4em;
 }
 
