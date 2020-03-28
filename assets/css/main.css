@@ -37,10 +37,24 @@ body {
 
 .sierra-title {
   color: rgb(95, 160, 149);
+  padding-bottom: 6vh;
 }
 
 .sierra-subtitle{
-  color: rgb(95, 129, 160);
+  /* color: rgb(95, 129, 160); */
+  color: grey;
+  padding-bottom: 2vh;
+}
+
+.hero-icon-link {
+ font-size: 1.75em !important;
+ padding-left: 0 !important;
+ padding-right: 2vw !important;
+}
+
+.scroll-prompt {
+  color: lightgrey;
+  padding-top: 2vh;
 }
 
 .grey-font {
@@ -56,14 +70,16 @@ body {
   font-size: 2em;
 }
 
-.scroll-prompt {
-  color: lightgrey;
-}
 
 .intouch-name-email {
   color:cadetblue;
 }
 
+.fa-ebay, .fa-amazon {
+  color: rgb(95, 129, 160);
+  padding: 0 4vw 0 4vw;
+  font-size: 4em;
+}
 .email-title {
   padding-top: 6vh;
 }
@@ -88,11 +104,6 @@ body {
   color:rgb(235, 173, 166);
 }
 
-.fa-ebay, .fa-amazon {
-  color: rgb(95, 129, 160);
-  padding: 0 4vw 0 4vw;
-  font-size: 4em;
-}
 
 .html5up-link{
   color: rgb(107, 143, 99);
