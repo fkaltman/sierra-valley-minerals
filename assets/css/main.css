@@ -46,10 +46,12 @@ body {
   padding-bottom: 2vh;
 }
 
-.hero-icon-link {
- font-size: 1.75em !important;
- padding-left: 0 !important;
- padding-right: 2vw !important;
+.ebay-button {
+width: 14em;
+}
+
+.amazon-button {
+width: 16em;
 }
 
 .scroll-prompt {
