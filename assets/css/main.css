@@ -36,13 +36,13 @@ body {
 }
 
 .sierra-title {
-  color: rgb(95, 160, 149);
+  color: rgb(66, 121, 111);
   padding-bottom: 6vh;
 }
 
 .sierra-subtitle{
   /* color: rgb(95, 129, 160); */
-  color: grey;
+  color:  rgb(78, 78, 78);
   padding-bottom: 2vh;
 }
 
@@ -55,12 +55,12 @@ width: 16em;
 }
 
 .scroll-prompt {
-  color: lightgrey;
+  color: grey;
   padding-top: 2vh;
 }
 
 .grey-font {
-  color: grey;
+  color:  rgb(78, 78, 78);
 }
 
 .pre-carousel-blurb, .pre-carousel-header {
@@ -68,13 +68,13 @@ width: 16em;
 }
 
 .store-invite {
-  color:cadetblue;
+  color:rgb(70, 116, 117);
   font-size: 2em;
 }
 
 
 .intouch-name-email {
-  color:cadetblue;
+  color:rgb(70, 116, 117);
 }
 
 .fa-ebay, .fa-amazon {
@@ -112,11 +112,11 @@ width: 16em;
 }
 
 .ltgrey-font{
-  color:lightgrey;
+  color:grey;
   }
 
 .footer-grey-font {
-  color:grey;
+  color: rgb(78, 78, 78);
   font-size: .75em;
 }
 
@@ -418,7 +418,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: cadetblue;
+			color: rgb(70, 116, 117);
 		}
 
 	strong, b {
@@ -2282,7 +2282,7 @@ input, select, textarea {
 	.button {
 		background-color: transparent;
 		box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.2);
-		color: cadetblue !important;
+		color: rgb(70, 116, 117) !important;
 	}
 
 		input[type="submit"]:hover,
