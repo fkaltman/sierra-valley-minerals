@@ -124,6 +124,12 @@ footer{
   padding-top: 12vh;
 }
 
+/* media q 450*/
+
+buy-for-desktop{
+  color: red;
+}
+
 /* ------ End of FA additions -------- */
 
 
