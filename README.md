@@ -1,10 +1,10 @@
 <h1 style="color:rgb(66, 121, 111);">Sierra Valley Minerals</h1>
-![Logo for Sierra Valley Mineral, which is a wee little jem](images/gallery/crystal_blue.png)
+![Logo for Sierra Valley Mineral, which is a wee little jem](./images/gallery/crystal_blue.png)
 
 
 ## E-Commerce Hub Microsite
 
-A branded microsite built to showcase our products through **story-driven content** and **immersive brand experiences**, with a direct link to our eBay store for seamless purchasing.
+A branded microsite built to showcase our products through **story-driven content**, with a direct link to the brand's eBay store for seamless purchasing.
 
 ---
 
