@@ -1,5 +1,5 @@
 <h1 style="color:rgb(66, 121, 111);">Sierra Valley Minerals</h1>
-![Logo for Sierra Valley Mineral, which is a wee little jem](path/to/image.png)
+![Logo for Sierra Valley Mineral, which is a wee little jem](images/gallery/crystal_blue.png)
 
 
 ## E-Commerce Hub Microsite
