@@ -1,6 +1,7 @@
-<img src="images/gallery/crystal_blue.png" alt="Logo for Sierra Valley Minerals, which is a wee little jem" width="100"/> 
 
-# Sierra Valley Minerals
+
+# [Sierra Valley Minerals](http://www.sierravalleyminerals.com/) <img src="images/gallery/crystal_blue.png" alt="Logo for Sierra Valley Minerals, which is a wee little jem" display="inline" width="40"/> 
+
 
 ### E-Commerce Hub Microsite
 
